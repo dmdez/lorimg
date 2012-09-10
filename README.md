@@ -7,8 +7,8 @@ Drop this on your project or personal server to host your own placeholder images
 
 ## Usage
 ```
-http://lorem.dericmendez.com/400x800
-http://lorem.dericmendez.com/400x800/ff9900
-http://lorem.dericmendez.com/400x800/000000/ffffff
+<img src="http://lorem.dericmendez.com/400x800" alt="400x800" />
+<img src="http://lorem.dericmendez.com/300x900/ff9900 alt="300x900 with a #ff9900 background color" />
+<img src="http://lorem.dericmendez.com/800x1200/000000/ffffff alt="800x1200 with a black background and white text" />
 ```
 
