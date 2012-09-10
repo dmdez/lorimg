@@ -1,12 +1,9 @@
 lorimg
 ==================
 
-Cloned the idea from http://motyar.blogspot.com/2010/09/create-image-placeholder-with-php.html and adjusting the url interface more similar to http://placehold.it/ placeholder image service.
+Cloned the idea from http://motyar.blogspot.com/2010/09/create-image-placeholder-with-php.html and adjusted the url interface more similar to http://placehold.it/ placeholder image service.
 
-## Markup
-```
-<input type="text" placeholder="Enter some text.." name="somefield">
-```
+Drop this on your project or personal server to host your own placeholder images.  Sometimes, this is more reliable than depending on http://placehold.it/.
 
 ## Usage
 ```
